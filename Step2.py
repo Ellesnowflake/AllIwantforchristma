@@ -1,4 +1,4 @@
-encoded = "SXdhbnRmb3JjaHJpc3RtYS9ibG9iL21haW4vbmFuaxS5qcGVn"
+encoded = "hbnRmb3JjaHJpc3RtYS9ibG9iL21haW4vZXG9udG9wZW4vbmFuaS5qcGVn"
 
 # Again, one character is junk. Your job is to produce the clean Part 2 string.
 
